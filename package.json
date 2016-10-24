@@ -1,0 +1,28 @@
+{
+  "name": "guessword-game-server",
+  "version": "1.0.0",
+  "description": "Server to host GuessWord game clients",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "author": "Amit M",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitmahbubani/guessword-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/amitmahbubani/guessword-server/issues"
+  },
+  "homepage": "https://github.com/amitmahbubani/guessword-server#readme"
+}
